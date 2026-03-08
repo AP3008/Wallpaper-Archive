@@ -9,4 +9,5 @@
 ![Sunset](.a_sunset_with_clouds_and_trees.png)
 ![Fantask Catppuccin Lanscape](./cppccn-maji-no-tabitabi-3-bg.jpg)
 ![Catppuccin Horizon](./cppccn-horizon-bg.jpg)
+![8 bit Cyberpunk Esque](./download.gif)
 
