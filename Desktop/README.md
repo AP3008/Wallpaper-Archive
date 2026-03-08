@@ -1,6 +1,5 @@
 # Desktop
 
-<h2>Some of my favourites</h2>
 ![Yellow moon](./a_yellow_moon_in_the_sky.png)
 ![Moon & Mountain](./a_moon_over_a_mountain.png)
 ![Anime bike night](./a_cartoon_of_a_woman_on_a_yellow_scooter.jpg)
