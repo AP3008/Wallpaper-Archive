@@ -3,7 +3,7 @@
 
 <div>
     <h2>What is this?</h2>
-        <p> I seem to collect wallpapers that I think are cool and just wanted a place to share them so other people can use if they desire. </p>
+        <p> I seem to collect wallpapers that I think are cool and just wanted a place to share them so other people can use if they desire. Feel free to make PR's and add your own images. </p>
     <h2> Organization </h2>
         <h3><a href="./Mobile"> Mobile </h3></a>
             <p>Wallpapers specifically for Mobile usage</p>
