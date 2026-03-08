@@ -9,6 +9,6 @@
             <p>Wallpapers specifically for Mobile usage</p>
         <a href="./Desktop"><h3> Desktop </h3></a>
             <p>High resolution wallpapers for Desktops</p>
-        <a herf="./Any"><h3> Any </h3></a>
+        <a href="./Any"><h3> Any </h3></a>
             <p>Wallpapers that are more dynamic and can work for different mediums</p>
 </div>
